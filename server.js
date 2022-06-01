@@ -1,6 +1,6 @@
-const Twitter = require('twitter')
+const Twit = require("twit");
 // Constante que guarda as funções da lib do Twitter
-require('dotenv').config()
+require('dotenv').config();
 // Configuração das variáveis de ambiente
 
 
